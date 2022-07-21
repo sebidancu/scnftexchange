@@ -1,0 +1,10 @@
+/Users/Sebi/Tigers/dapp-vote/scnftexchange/target/debug/deps/sha2-b4aa86fdbf73e1aa.rmeta: /Users/sebidancu/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/lib.rs /Users/sebidancu/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/consts.rs /Users/sebidancu/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256.rs /Users/sebidancu/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512.rs /Users/sebidancu/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256/soft.rs /Users/sebidancu/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512/soft.rs
+
+/Users/Sebi/Tigers/dapp-vote/scnftexchange/target/debug/deps/sha2-b4aa86fdbf73e1aa.d: /Users/sebidancu/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/lib.rs /Users/sebidancu/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/consts.rs /Users/sebidancu/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256.rs /Users/sebidancu/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512.rs /Users/sebidancu/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256/soft.rs /Users/sebidancu/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512/soft.rs
+
+/Users/sebidancu/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/lib.rs:
+/Users/sebidancu/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/consts.rs:
+/Users/sebidancu/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256.rs:
+/Users/sebidancu/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512.rs:
+/Users/sebidancu/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha256/soft.rs:
+/Users/sebidancu/elrondsdk/vendor-rust/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.9/src/sha512/soft.rs:

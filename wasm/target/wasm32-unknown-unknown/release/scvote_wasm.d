@@ -1,0 +1,1 @@
+/Users/Sebi/Tigers/dapp-vote/scnftexchange/wasm/target/wasm32-unknown-unknown/release/scvote_wasm.wasm: /Users/Sebi/Tigers/dapp-vote/scnftexchange/src/votecontract.rs /Users/Sebi/Tigers/dapp-vote/scnftexchange/wasm/src/lib.rs
